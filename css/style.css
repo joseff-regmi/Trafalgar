@@ -8,7 +8,8 @@
 #vector_img_top_id,
 #vector_group_testi_id,
 .vector_img,
-.navigations_list {
+.navigations_list,
+footer > img {
   display: none;
 }
 
@@ -783,6 +784,7 @@ small {
   }
 
   footer img {
+    display: block;
     margin-top: 275px;
     margin-left: -165px;
   }
