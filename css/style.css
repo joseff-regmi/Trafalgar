@@ -768,7 +768,7 @@ small {
   }
 
   .btn_secondary {
-    padding: 1.5%;
+    padding: 1.2%;
     width: 15%;
     font-weight: normal;
     margin-top: 0px;
@@ -799,5 +799,48 @@ small {
     width: 40%;
     margin-top: 100px;
     margin-bottom: 20px;
+  }
+
+  blockquote {
+    width: 40%;
+    padding: 0px;
+    float: left;
+  }
+
+  .image_info_and_quote {
+    margin: 50px;
+  }
+
+  .info_container h4 {
+    font-size: 22px;
+    font-weight: bold;
+  }
+
+  .testimonials_container {
+    padding-bottom: 20px;
+  }
+
+  .image_and_info {
+    width: 50%;
+    float: left;
+    display: block;
+    margin: 20px;
+  }
+
+  .image_container {
+    width: 40%;
+    float: left;
+  }
+
+  .a_person {
+    width: 141px;
+    height: 141px;
+  }
+
+  .info_container {
+    width: 180px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 10px;
   }
 }
